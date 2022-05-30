@@ -11,4 +11,6 @@ Notes:
 2. Mode of Attendance
 
 Internal = studying on-campus
+
+
 External = studying online
