@@ -4,3 +4,11 @@ The insights are on the commencing domestic cohort at Deakin. The focus is to kn
 Dataset - http://highereducationstatistics.education.gov.au/
 
 Tableau Link - https://public.tableau.com/app/profile/omkar.chandrashekhar.pawar/viz/DeakinEnrolmentInsights/Dashboard1
+
+
+Notes:
+1. Field of Education = subject areas
+2. Mode of Attendance
+
+Internal = studying on-campus
+External = studying online
